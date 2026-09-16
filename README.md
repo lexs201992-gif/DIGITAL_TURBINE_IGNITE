@@ -93,8 +93,8 @@ pm dump com.dti.amx | grep "americaMovil"
 ```
 
 ## References
-- [Press Release: Exclusive Motorola Collaboration (May 15, 2024)](./press/2024-05-15.md)
-- [SEC Admin Proceeding 34-84998 (Jan 2019)](./evidence/sec_sanction_2019.md)
+- [Press Release: Exclusive Motorola Collaboration (May 15, 2024)](https://d1io3yog0oux5.cloudfront.net/_9468fdd21fd3d4eb5cc1ecdf873347d2/digitalturbine/news/2024-05-15_Digital_Turbine_Announces_Exclusive_Collaboration__669.pdf)
+- [SEC Admin Proceeding 34-84998 (Jan 2019)](https://www.sec.gov/files/litigation/admin/2019/34-84998.pdf)
 - [VT Graph: com.dti.amx](https://www.virustotal.com/gui/file/79021164...)
 - [Parent: Longcheer-Unisoc-Architectural-Total_control](https://github.com/lexs201992-gif/Longcheer-Unisoc-Architectural-Total_control)
 
